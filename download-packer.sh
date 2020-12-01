@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-GITHUB_USER="picodotdev"
+GITHUB_USER="MizzQuishy"
 
 while getopts "u:" arg; do
   case ${arg} in
